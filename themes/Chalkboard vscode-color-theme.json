@@ -2,7 +2,7 @@
 	"name": "Chalkboard vscode",
 	"colors": {
 		"editor.background": "#222830ff",
-		"editor.foreground": "#DFD1C1",
+		"editor.foreground": "#DFDFDE",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#DFD1C1",
 		"activityBar.background": "#222830ff",
@@ -11,8 +11,8 @@
 		"editorGroupHeader.tabsBackground": "#222830ff",
 		"tab.activeBackground": "#222830ff",
 		"tab.inactiveBackground": "#222830ff",
-		"titleBar.activeBackground": "#222830ff"
-		
+		"titleBar.activeBackground": "#222830ff",
+		"editor.symbolHighlightBorder": "#ff0000"
 
 
 		
@@ -37,7 +37,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#DFDFDE"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#DFDFDE"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 				
 			],
 			"settings": {
-				"foreground": "#DFD1C1"
+				"foreground": "#DFDFDE"
 			}
 		},
 
@@ -95,7 +95,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#C29DA7"
+				"foreground": "#FFBCBC"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 
 			],
 			"settings": {
-				"foreground": "#DFD1C1",
+				"foreground": "#DFDFDE",
 				
 			}
 		},
@@ -136,7 +136,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#9CBEBC"
+				"foreground": "#6FEDD6"
 			}
 		},
 
@@ -171,7 +171,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#B1AFBF",
+				"foreground": "#D7BBF5",
 			},
 
 			
@@ -205,7 +205,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#EFB495"
+				"foreground": "#FFB000"
 			}
 		},
 		{
