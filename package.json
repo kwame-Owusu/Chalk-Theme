@@ -4,6 +4,10 @@
   "description": "xcode chalkboard theme in vscode",
   "version": "0.0.1",
   "publisher": "KwameOwusu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwame-Owusu/Chalk-Theme"
+  },
   "engines": {
     "vscode": "^1.83.0"
   },
