@@ -1,0 +1,22 @@
+{
+  "name": "chalkboard-for-vscode",
+  "displayName": "Chalkboard for vscode",
+  "description": "xcode chalkboard theme in vscode",
+  "version": "0.0.1",
+  "publisher": "KwameOwusu",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chalkboard vscode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chalkboard vscode-color-theme.json"
+      }
+    ]
+  }
+}
