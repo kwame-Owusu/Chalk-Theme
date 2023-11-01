@@ -12,7 +12,8 @@
 		"tab.activeBackground": "#222830ff",
 		"tab.inactiveBackground": "#222830ff",
 		"titleBar.activeBackground": "#222830ff",
-		"editor.symbolHighlightBorder": "#ff0000"
+		"editor.symbolHighlightBorder": "#ff0000",
+		"editor.lineHighlightBorder": "#222830ff"
 
 
 		
